@@ -1,0 +1,20 @@
+{
+  "name": "use-hello-js-action-Jorge-Acevedo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ULL-ESIT-PL-1920/use-hello-js-action-Jorge-Acevedo.git"
+  },
+  "keywords": [],
+  "author": "Jorge Acevedo de León <alu0101123622@ull.edu.es> (https://github.com/Jorge-Acevedo)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ULL-ESIT-PL-1920/use-hello-js-action-Jorge-Acevedo/issues"
+  },
+  "homepage": "https://github.com/ULL-ESIT-PL-1920/use-hello-js-action-Jorge-Acevedo#readme"
+}
